@@ -1,61 +1,53 @@
 # שלום, אני אלדד גונשרוביץ 🚀
-### AI Automation Expert | Technology is a Way of Life
+## Founder of **EYEgent** | Transforming Reality through AI & Automation
 
 <div align="center">
 
-![AI Automation](https://github.com/eldadi9/eldadi9/blob/main/your-image-name.png)
+![EYEgent Logo](logo.png)
 
-**"טכנולוגיה ופתרון בעיות הם עבורי לא רק כלי עבודה, אלא דרך חיים"**
+**"Where Family Legacy (E.Y.E) Meets Next-Gen Intelligence."**
 
-[![GitHub](https://img.shields.io/badge/GitHub-eldadi9-blue?style=flat-square&logo=github)](https://github.com/eldadi9)
-[![Email](https://img.shields.io/badge/Email-eldadi9%40gmail.com-red?style=flat-square&logo=gmail)](mailto:eldadi9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](הוסף-קישור-כאן)
+[![GitHub](https://img.shields.io/badge/GitHub-eldadi9-blue?style=for-the-badge&logo=github)](https://github.com/eldadi9)
+[![Email](https://img.shields.io/badge/Email-eldadi9%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:eldadi9@gmail.com)
 
 </div>
 
 ---
 
-## 💡 אודותיי
-אני מתמחה בבניית **סוכני AI חכמים**, אוטומציות מקצה לקצה (End-to-End) ומערכות מורכבות שחוסכות זמן יקר. אני מאמין שבעזרת ארכיטקטורה נכונה ואוטומציה אינטליגנטית, אפשר לפתור כל אתגר עסקי.
+## 👁️ אודות EYEgent
+**EYEgent** הוקמה מתוך חזון לשלב בין פתרון בעיות יצירתי לבין הטכנולוגיות המתקדמות ביותר בעולם. השם מייצג את הליבה שלי (Eldad, Yuli, Emy) ואת המומחיות שלי בבניית **סוכני AI** שרואים מעבר לקיים.
 
 ---
 
-## 🛠️ סטק טכנולוגי
-| תחום | טכנולוגיות |
+## 🛠️ הסטק הטכנולוגי שלי (The Tech Stack)
+| תחום | מיומנויות |
 | :--- | :--- |
-| **AI & Automation** | `n8n` • `Make.com` • `LLMs` • `LangChain` |
-| **Development** | `Python` • `Node.js` • `TypeScript` • `SQL` |
-| **Integrations** | `REST APIs` • `Stripe/Tranzila` • `Twilio` • `Telegram Bot API` |
-| **Architecture** | `Process Optimization` • `Scalable Systems` |
+| **Agentic AI** | `n8n` • `Make.com` • `Custom AI Agents` • `LLMs (OpenAI, Anthropic)` |
+| **Development** | `Python` • `Node.js` • `TypeScript` • `SQL (PostgreSQL)` |
+| **Systems** | `API Integration` • `Payment Gateways (Stripe/Tranzila)` • `Twilio` |
+| **Legacy** | `IPTV Management` • `Telegram Bot Architecture` |
 
 ---
 
-## 🏗️ פרויקט הדגל: ZimmerBot
-**מערכת הזמנות אינטליגנטית מקצה לקצה לניהול צימרים.**
-* 🤖 סוכן AI לניהול שיחות ומכירה.
-* 📅 סנכרון יומנים אוטומטי.
-* 💳 מערכת סליקה וניהול תשלומים מובנית.
-* 👉 [לצפייה בריפוזיטורי של ZimmerBot](https://github.com/eldadi9/ZimmerBot)
+## 🏗️ פרויקטים נבחרים
 
----
+### 🤖 [ZimmerBot](https://github.com/eldadi9/ZimmerBot)
+**מערכת הזמנות אוטומטית מקצה לקצה.** סוכן AI שמנהל שיחות, סוגר הזמנות, מסנכרן יומנים ומטפל בתשלומים ללא מגע יד אדם.
 
-## 📂 פרויקטים נבחרים (Portfolio)
+### 📺 [m3u_Editor_Pro](https://github.com/eldadi9/m3u_Editor_Pro)
+כלי עוצמתי ב-Python לניהול, עריכה ואופטימיזציה של רשימות IPTV מורכבות.
 
-| פרויקט | תיאור | טכנולוגיה |
-| :--- | :--- | :--- |
-| **m3u_Editor_Pro** 📺 | עורך מתקדם לרשימות השמעה של IPTV | `Python` |
-| **JumpFitPro** 🤸‍♂️ | אפליקציה לניהול ומעקב אימוני קפיצה בחבל | `TypeScript` |
-| **Olam_Haoradot.bot** 🤖 | בוט טלגרם חכם להורדות וניהול תוכן | `Node.js` |
-| **stremio-installer** 🛠️ | כלי להתקנה אוטומטית של תוספי Stremio | `Automation` |
+### 🤸‍♂️ [JumpFitPro](https://github.com/eldadi9/JumpFitPro)
+אפליקציה מבוססת TypeScript לניהול ומעקב אחר ביצועים ספורטיביים.
 
 ---
 
 ## 📫 בואו נדבר
-אני תמיד פתוח לשיתופי פעולה מעניינים בתחומי ה-AI והאוטומציה.
-* **Email:** [eldadi9@gmail.com](mailto:eldadi9@gmail.com)
-* **GitHub:** [@eldadi9](https://github.com/eldadi9)
+יש לכם אתגר טכנולוגי? בואו נהפוך אותו לאוטומציה חכמה.
+* **LinkedIn:** [הוסף קישור כאן]
+* **Website:** Coming Soon (eyegent.ai)
 
 ---
 <div align="center">
-  **נבנה באהבה ❤️ עם דגש על אוטומציה חכמה**
+  **EYEgent - Intelligence in Sight.**
 </div>
