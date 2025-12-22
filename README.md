@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![EYEgent Logo](logo.png)
+![EYEgent Logo](EYEgent.png)
 
 **"Where Family Legacy (E.Y.E) Meets Next-Gen Intelligence."**
 
