@@ -22,7 +22,7 @@ Not a researcher. Not a pure engineer. A practitioner who starts with the proble
 
 | Category | Examples |
 |----------|----------|
-| Multi-agent AI pipelines | Scanner → Matcher → Optimizer → Approval flow |
+| Multi-agent AI pipelines | Scanner → Matcher (LLM Judge) → Liveness → Optimizer → Approval |
 | n8n + MCP automation | Google Workspace, Telegram, calendar, email routing |
 | Enterprise AI data agents | SOAP unification, SQLite cache, MCP tools, dashboard UI |
 | Full-stack web apps | React, Supabase, Leaflet, auth/RLS, VPS deployed |
@@ -34,7 +34,7 @@ Not a researcher. Not a pure engineer. A practitioner who starts with the proble
 ## Selected Projects
 
 ### JobHunterX — Multi-Agent AI Job Search System
-Production-grade 6-agent pipeline: ScannerAgent → MatcherAgent → OptimizerAgent → Approval → Reporting. Scans 5 Israeli job platforms twice daily via n8n, scores matches with OpenAI, generates tailored CVs, and delivers Telegram notifications — with strict human-in-the-loop: no auto-apply, no auto-send.  
+Production-grade multi-agent pipeline orchestrated by **TeamAgent**: Scanner → Matcher (prioritized **LLM Judge**) → Liveness → Optimizer → Evaluator → Approval → Reporting. Scheduled **n8n** scans on configured Israeli job sources (LinkedIn, Greenhouse, Lever, Ashby, Drushim, JobMaster, and more); deterministic + semantic scoring with budget-capped GPT-4o-mini Judge (tier-1 high-score audit first) to catch false positives; truthful tailored CVs, A–G evaluation reports, Hebrew-first dashboard, and Telegram digests — strict **human-in-the-loop**: no auto-apply, no auto-send.  
 `Python` · `FastAPI` · `React` · `OpenAI` · `n8n` · `Telegram` · `Google Sheets` · `Docker` · `VPS` · `530+ tests`  
 *Private repository — production deployment on Hostinger VPS*
 
