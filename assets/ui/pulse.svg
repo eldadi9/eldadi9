@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="20" viewBox="0 0 1280 20">
+<style>
+.s{animation:m 4.6s cubic-bezier(.2,.6,.2,1) 1 both}
+@keyframes m{from{transform:translateX(0)}to{transform:translateX(-1048px)}}
+.n{animation:o 2.3s ease-in-out 2 both}
+@keyframes o{50%{opacity:.35}}
+@media (prefers-reduced-motion:reduce){.s,.n{animation:none}}
+</style>
+<rect x="0" y="9" width="1280" height="2" fill="#6B736C"/>
+<g class="s"><rect x="1100" y="8" width="180" height="3" fill="#A7C45C"/><rect x="1094" y="5" width="9" height="9" fill="#A7C45C"/></g>
+<rect class="n" x="1196" y="4" width="11" height="11" fill="#A7C45C"/>
+</svg>
