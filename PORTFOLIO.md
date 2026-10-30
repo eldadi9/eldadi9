@@ -166,13 +166,36 @@ flowchart TB
 
 ELDO explores a personal assistant with structured memory, action policies, audit-oriented workflows and sandbox adapters. Live transport and deployment are still under development.
 
+```mermaid
+flowchart TB
+    A[User request] --> B[Context and memory]
+    B --> C[Action policy]
+    C --> D[Controlled sandbox workflow]
+    D --> E[Traceable outcome]
+```
+
 ### DREAM TEAM — Agent work overview
 
 A private dashboard designed to bring project, task and agent activity together and make work that needs attention easier to find.
 
+```mermaid
+flowchart TB
+    A[Projects and tasks] --> D[Work overview]
+    B[Agent activity] --> D
+    D --> E[Items needing attention]
+```
+
 ### EG Skills Core — AI work orchestration
 
 A private agent-work framework with reusable skills, specialist roles, orchestration, validation and continuity. Its documentation describes bounded task routing and separate review and validation responsibilities; behavior varies by configuration.
+
+```mermaid
+flowchart TB
+    A[Work request] --> B[Plan and route]
+    B --> C[Specialist work]
+    C --> D[Independent validation]
+    D --> E[Continuity and review]
+```
 
 ### New Project Tool — Project setup workflows
 
