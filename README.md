@@ -79,7 +79,7 @@ I bring 20+ years of business and operational leadership, technical project deli
 </td>
 <td valign="top">
 
-סורקת כל לילה 23 מקורות משרות, ממערכות גיוס בעולם ועד לוחות בישראל.
+סורקת מקורות משרות מוגדרים, ממערכות גיוס בעולם ועד לוחות בישראל.
 
 </td>
 </tr>
@@ -139,7 +139,7 @@ I bring 20+ years of business and operational leadership, technical project deli
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/ui/icon-0.png" width="22" alt="•"> 23 מקורות משרות במנוע אחד
+<img src="./assets/ui/icon-0.png" width="22" alt="•"> מקורות משרות מגוונים במנוע אחד
 
 </td>
 <td width="50%" valign="top">
@@ -200,7 +200,7 @@ I bring 20+ years of business and operational leadership, technical project deli
 
 ### <img src="./assets/cards/02-apex.png" alt="Apex (פרטי)" width="100%">
 
-**מערכת BI ותפעול מבוססת סוכנים: שואלים בעברית, ומקבלים תשובה מכל מקורות הנתונים.**
+**מערכת BI ותפעול מבוססת סוכנים: שואלים בעברית ומקבלים תובנות ממקורות נתונים מחוברים.**
 
 #### <img src="./assets/ui/mark.png" width="18" alt="▪"> הבעיה
 
@@ -318,7 +318,7 @@ I bring 20+ years of business and operational leadership, technical project deli
 
 #### <img src="./assets/ui/mark.png" width="18" alt="▪"> איפה זה עומד
 
-מערכת רחבה: 126 פעולות מערכת ו-18 כלים לעוזרי AI.
+מערכת רחבה עם ממשקים, כלי AI ודוחות; היכולות משתנות בהתאם לתצורה ולשלב הפרויקט.
 
 <p align="center"><img src="./assets/ui/divider.png" alt="קו הפרדה" width="100%"></p>
 
