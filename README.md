@@ -18,7 +18,7 @@ I bring 20+ years of business and operational leadership, technical project deli
 - **Technical delivery:** roadmaps, milestones, stakeholder coordination, testing and implementation.
 - **Measurement and improvement:** dashboards, reporting, monitoring and iteration.
 
-**Selected work:** JobHunterX is an independent, production-verified multi-agent career operations system. Verifone APEX is an agentic business intelligence and operations solution I conceived and built to connect enterprise data and support natural-language questions and reporting. Both repositories are private; public descriptions are limited to non-confidential capabilities.
+**Selected work:** JobHunterX is an independent, production-verified multi-agent career operations system. APEX is an agentic business intelligence and operations solution I conceived and built to connect enterprise data and support natural-language questions and reporting. Both repositories are private; public descriptions are limited to non-confidential capabilities.
 
 [LinkedIn](https://www.linkedin.com/in/eldad-gonsherovitz-97153846/) · Project demonstrations available on request
 
