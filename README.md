@@ -3,7 +3,7 @@
 
 ### [Explore the public project portfolio →](./PORTFOLIO.md)
 
-Project stories, diagrams and technologies — with private repositories kept private.
+The portfolio is the current public overview of project scope and status. Project stories, diagrams and technologies — with private repositories kept private.
 
 </div>
 
@@ -35,7 +35,7 @@ I bring 20+ years of business and operational leadership, technical project deli
 - **Technical delivery:** roadmaps, milestones, stakeholder coordination, testing and implementation.
 - **Measurement and improvement:** dashboards, reporting, monitoring and iteration.
 
-**Selected work:** JobHunterX is an independent, production-verified multi-agent career operations system. APEX is an agentic business intelligence and operations solution I conceived and built to connect enterprise data and support natural-language questions and reporting. Both repositories are private; public descriptions are limited to non-confidential capabilities.
+**Selected work:** JobHunterX is an independent multi-agent career operations system with documented deployment and regression checks. APEX is an agentic business intelligence and operations solution I conceived and built to connect enterprise data and support natural-language questions and reporting. Both repositories are private; public descriptions are limited to non-confidential capabilities.
 
 [LinkedIn](https://www.linkedin.com/in/eldad-gonsherovitz-97153846/) · Project demonstrations available on request
 
@@ -1070,7 +1070,7 @@ I bring 20+ years of business and operational leadership, technical project deli
 
 #### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה מייחד
 
-זה סוכן שנבנה קודם כול כדי לא לטעות. אישור שמגיע ממייל, מדף אינטרנט או מטקסט אחר נדחה, ורק הבעלים יכול לאשר.
+זה סוכן שנבנה עם דגש על צמצום טעויות ובקרת פעולות. אישור שמגיע ממייל, מדף אינטרנט או מטקסט אחר נדחה, ורק הבעלים יכול לאשר.
 
 #### <img src="./assets/ui/mark.png" width="18" alt="▪"> איפה זה עומד
 
