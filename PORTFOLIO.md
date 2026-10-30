@@ -1,0 +1,169 @@
+<div align="center">
+
+# Eldad Gonsherovitz
+
+### AI Solutions & Agentic Systems Lead
+
+**Business problems → clear requirements → connected AI solutions → human-controlled delivery**
+
+[LinkedIn](https://www.linkedin.com/in/eldad-gonsherovitz-97153846/) · Private project demonstrations available on request
+
+</div>
+
+I identify the real problem behind a business request, understand the people, processes and data involved, and turn that understanding into practical AI products and connected workflows. My work combines over 20 years of business and operational leadership with hands-on AI exploration and AI-assisted building since early 2023.
+
+As a Project Manager at Verifone Israel, I work across customers, business stakeholders and technical teams. In parallel, I conceive and build independent AI products. I bring business discovery, system analysis and technical delivery together: from the first question through requirements, design, development, testing and improvement.
+
+## How I work
+
+```mermaid
+flowchart LR
+    A[Understand the business problem] --> B[Map processes and requirements]
+    B --> C[Design the solution and workflows]
+    C --> D[Build with AI and integrations]
+    D --> E[Test, review and implement]
+    E --> F[Measure and improve]
+```
+
+| Area | What I bring |
+| --- | --- |
+| Business and systems analysis | Discovery, process mapping, PRDs, requirements, user stories and acceptance criteria |
+| AI and agentic systems | LLM workflows, specialized agents, orchestration, prompt design, validation and human approval |
+| Integrations and automation | APIs, SOAP, webhooks, MCP, n8n and connected business workflows |
+| Product and project delivery | Roadmaps, prioritization, stakeholder coordination, implementation and acceptance testing |
+| Quality and improvement | E2E and regression testing, dashboards, reporting, monitoring and iteration |
+
+## Selected projects
+
+These descriptions show the product problem, approach and relevant technology. Most repositories are private; their summaries intentionally exclude confidential or personal data. Availability, integrations and operational status can change. Demonstrations use approved or synthetic information.
+
+### JobHunterX — Human-controlled AI career operations
+
+Job searching often involves fragmented job sources, repetitive résumé tailoring and scattered follow-up. I conceived and built JobHunterX to bring the process into one controlled workflow.
+
+![JobHunterX — illustrative product concept](assets/portfolio/jobhunterx.png)
+
+```mermaid
+flowchart LR
+    A[Job discovery] --> B[Explainable fit and requirement review]
+    B --> C[Check listing status]
+    C --> D[Truthful resume and application preparation]
+    D --> E[Human review and approval]
+    E --> F[Tracking and interview preparation]
+```
+
+- Specialized agents coordinate discovery, matching, job liveness, application preparation and reporting.
+- A Hebrew-first dashboard brings opportunities, approvals, application tracking and interview preparation together.
+- Résumé content is grounded in candidate facts; there is no auto-apply, and Gmail sending is opt-in and approval-gated.
+- **Technologies and interfaces:** Python, FastAPI, React, AI services, optional n8n and messaging integrations.
+- **Status:** private independent project; production deployment and regression checks have been documented. No claim is made about interview-rate improvement.
+
+### APEX — Agentic business intelligence and operations
+
+Business information often lives in separate systems. I conceived and built APEX around a practical question: how can a user ask in natural language and turn connected business data into a useful answer?
+
+![APEX — illustrative product concept](assets/portfolio/apex.png)
+
+```mermaid
+flowchart LR
+    A[Business question] --> B[Agent orchestration]
+    B --> C[Connected data sources]
+    C --> D[Analysis and reporting]
+    D --> E[Human decision]
+```
+
+- Specialized agents, orchestration and integrations support analysis and reporting across systems.
+- The work spans business discovery, product vision, requirements, solution design and AI-assisted development.
+- **Technologies and interfaces:** Python, FastAPI, APIs, SOAP and MCP.
+- **Status:** private project; this overview deliberately omits enterprise data and internal operational details.
+
+### ThaiFamily Trip — AI-assisted family travel planning
+
+![ThaiFamily Trip — illustrative product concept](assets/portfolio/thaifamily.png)
+
+I built a travel planner that brings itinerary design, place discovery, maps and practical tools into a Hebrew-first mobile experience. It is designed around family needs, travel pace and destination context.
+
+The planning flow connects family preferences, destination information and AI-assisted itinerary generation, with a map-based way to explore places. The experience includes practical travel tools alongside the planner.
+
+**Technologies and interfaces:** React, TypeScript, Leaflet, Supabase, OpenAI and n8n integrations. The project is private; this overview excludes personal itineraries and family information.
+
+### WatchUp — Privacy-aware family alerts
+
+![WatchUp — illustrative product concept](assets/portfolio/watchup.png)
+
+I built WatchUp to help parents notice selected communication alerts without reviewing every conversation. The documented experience includes a Hebrew dashboard, configurable alerts and a read-only integration that does not send or modify messages.
+
+**Status:** private project. No family or message data is shown here.
+
+### WebtopKids — School updates made simple
+
+I built a family-oriented assistant to reduce repeated portal checking. It collects and organizes school updates, detects changes and supports Telegram notifications and reminders.
+
+```mermaid
+flowchart LR
+    A[School updates] --> B[Browser automation and change detection]
+    B --> C[Organize updates]
+    C --> D[Telegram notifications and reminders]
+```
+
+**Technologies and interfaces:** Node.js, Playwright, browser automation and Telegram. Private project; no student or school information is disclosed.
+
+### Remind Me — Voice-first AI assistant
+
+I built a voice-first assistant that transcribes spoken ideas, creates useful titles and helps organize them into workflows such as tasks, calendar events, email drafts or spreadsheet entries. It combines AI and Google integrations in a Hebrew-first mobile experience.
+
+```mermaid
+flowchart LR
+    A[Speak a thought] --> B[Transcription and title]
+    B --> C[Review and organize]
+    C --> D[Notes or connected workflow]
+```
+
+### Voice GmailBot — AI workspace assistant
+
+I built an assistant that connects productivity workflows through voice or natural language. It brings Gmail, Calendar, Contacts and Telegram together through n8n and MCP, supporting tasks such as drafting, scheduling and information retrieval.
+
+### GiftWallet — Smart gift card management
+
+I built a Hebrew-first app for organizing gift cards, combining image scanning, barcode validation and a dashboard, with optional cloud storage. Its documented stack includes React, TypeScript, OCR and optional Supabase.
+
+### ELDO — Personal AI agent in development
+
+ELDO explores a personal assistant with structured memory, action policies, audit-oriented workflows and sandbox adapters. The inspected project documentation distinguishes sandbox work from live transport and deployment; those boundaries must be rechecked before claiming live capabilities.
+
+### DREAM TEAM — Agent work overview
+
+A private dashboard designed to bring project, task and agent activity together and make work that needs attention easier to find. This is a product overview; it does not imply that any particular agent ran on this page.
+
+### EG Skills Core — AI work orchestration
+
+A private agent-work framework with reusable skills, specialist roles, orchestration, validation and continuity. Its documentation describes bounded task routing and separate review and validation responsibilities; behavior varies by configuration.
+
+### New Project Tool — Project setup workflows
+
+A private project setup toolkit containing project templates, specifications, setup scripts, tests and orchestration material. It reflects work on repeatable project foundations and structured AI-assisted development. Current supported workflows require verification before more specific claims are published.
+
+### More public code
+
+- [TextBridge](https://github.com/eldadi9/TextBridge) — Hebrew–English AI translation, with plain text and Markdown-oriented workflows.
+- [Fridge Chef](https://github.com/eldadi9/fridge-chef) — food and recipe workflows combining AI-related components and external data sources.
+- [VoxScribe](https://github.com/eldadi9/VoxScribe) — early-stage transcription and meeting-summary project; planned features are not presented as finished.
+
+## Tools and technologies
+
+**AI:** AI agents · multi-agent orchestration · LLMs · prompt design · ChatGPT · Claude · Codex · Cursor
+
+**Systems and integrations:** APIs · SOAP · webhooks · MCP · n8n · Python · FastAPI · React · TypeScript · SQL
+
+**Product and delivery:** business analysis · system analysis · PRDs · roadmaps · user stories · E2E and regression testing · dashboards · KPIs
+
+Tools listed here represent the breadth of my work across projects; they do not imply the same level of proficiency or use in every project.
+
+---
+
+### גם בעברית
+
+אני מחבר בין הבנה עסקית, אפיון מערכות ובנייה מעשית של פתרונות AI. אני מתחיל בזיהוי הבעיה ובמיפוי האנשים, התהליכים והמידע, וממשיך לתכנון, בנייה, בדיקות ושיפור — תוך שמירה על בקרה אנושית במקומות המתאימים.
+
+**תיק עבודות והדגמות:** חלק מהפרויקטים פרטיים; אפשר לתאם הדגמה שאינה חושפת מידע רגיש דרך [LinkedIn](https://www.linkedin.com/in/eldad-gonsherovitz-97153846/).
+

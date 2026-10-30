@@ -1,4 +1,12 @@
 <p align="center" dir="rtl"><img src="./assets/hero.png" alt="אלדד גונשרוביץ'" width="100%"><br><img src="./assets/ui/pulse.svg" alt="קו סריקה מונפש, קישוט" width="100%"></p>
+<div align="center">
+
+### [Explore the public project portfolio →](./PORTFOLIO.md)
+
+Project stories, diagrams and technologies — with private repositories kept private.
+
+</div>
+
 
 <div dir="ltr" lang="en">
 
