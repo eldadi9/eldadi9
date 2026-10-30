@@ -14,6 +14,14 @@ I identify the real problem behind a business request, understand the people, pr
 
 As a Project Manager at Verifone Israel, I work across customers, business stakeholders and technical teams. In parallel, I conceive and build independent AI products. I bring business discovery, system analysis and technical delivery together: from the first question through requirements, design, development, testing and improvement.
 
+## Explore the portfolio
+
+[JobHunterX](#jobhunterx--human-controlled-ai-career-operations) · [APEX](#apex--agentic-business-intelligence-and-operations) · [ThaiFamily Trip](#thaifamily-trip--ai-assisted-family-travel-planning) · [WatchUp](#watchup--privacy-aware-family-alerts)
+
+[WebtopKids](#webtopkids--school-updates-made-simple) · [Remind Me](#remind-me--voice-first-ai-assistant) · [Voice GmailBot](#voice-gmailbot--ai-workspace-assistant) · [GiftWallet](#giftwallet--smart-gift-card-management)
+
+[PRD Intake](#prd-intake--automation-brief--from-business-need-to-structured-brief) · [ELDO](#eldo--personal-ai-agent-in-development) · [DREAM TEAM](#dream-team--agent-work-overview) · [EG Skills](#eg-skills-core--ai-work-orchestration) · [New Project Tool](#new-project-tool--project-setup-workflows)
+
 ## How I work
 
 ![Understand the business problem → Map processes and requirements → Design the solution and workflows → Build with AI and integrations → Test, review and implement → Measure and improve](assets/portfolio/diagrams/business-workflow.svg)
@@ -109,7 +117,7 @@ I built a voice-first assistant that transcribes spoken ideas, creates useful ti
 
 <sub>Illustrative concept — not a product screenshot or real data.</sub>
 
-I built an assistant that connects productivity workflows through voice or natural language. It brings Gmail, Calendar, Contacts and Telegram together through n8n and MCP, supporting tasks such as drafting, scheduling and information retrieval.
+I built an assistant that connects productivity workflows through voice or natural language. It brings Gmail, Calendar, Contacts and Telegram together through n8n and MCP, supporting tasks such as drafting, scheduling and information retrieval. Connected actions depend on permissions and configuration, with user review where applicable.
 
 ### GiftWallet — Smart gift card management
 
@@ -147,7 +155,7 @@ ELDO explores a personal assistant with structured memory, action policies, audi
 
 <sub>Illustrative concept — not a product screenshot or real data.</sub>
 
-A private dashboard designed to bring project, task and agent activity together and make work that needs attention easier to find.
+A private dashboard designed to bring project, task and agent activity together and make work that needs attention easier to find. It supports visibility; the dashboard alone does not demonstrate autonomous agent execution.
 
 ![Projects, tasks and agent activity → Work overview → Items needing attention](assets/portfolio/diagrams/dreamteam-workflow.svg)
 
