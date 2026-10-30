@@ -121,6 +121,10 @@ I built a Hebrew-first app for organizing gift cards, combining image scanning, 
 
 ### PRD Intake & Automation Brief — From business need to structured brief
 
+![PRD Intake & Automation Brief — From business need to structured brief — illustrative product concept](assets/portfolio/prd.webp)
+
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
+
 A Hebrew-first intake workflow designed to turn an initial business request into a structured automation brief. A five-step form groups the problem, success criteria, requirements, inputs and outputs, integration needs, timing and supporting files. The implementation packages the submission as structured data with an RTL HTML requirements document for downstream workflow processing.
 
 ![Business request → Structured intake → Requirements document → Workflow handoff](assets/portfolio/diagrams/prd-workflow.svg)
@@ -129,11 +133,19 @@ A Hebrew-first intake workflow designed to turn an initial business request into
 
 ### ELDO — Personal AI agent in development
 
+![ELDO — Personal AI agent in development — illustrative product concept](assets/portfolio/eldo.webp)
+
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
+
 ELDO explores a personal assistant with structured memory, action policies, audit-oriented workflows and sandbox adapters. Live transport and deployment are still under development.
 
 ![User request → Context and memory → Action policy → Controlled sandbox workflow → Traceable outcome](assets/portfolio/diagrams/eldo-workflow.svg)
 
 ### DREAM TEAM — Agent work overview
+
+![DREAM TEAM — Agent work overview — illustrative product concept](assets/portfolio/dreamteam.webp)
+
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
 
 A private dashboard designed to bring project, task and agent activity together and make work that needs attention easier to find.
 
@@ -141,11 +153,19 @@ A private dashboard designed to bring project, task and agent activity together 
 
 ### EG Skills Core — AI work orchestration
 
+![EG Skills Core — AI work orchestration — illustrative product concept](assets/portfolio/egskills.webp)
+
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
+
 A private agent-work framework with reusable skills, specialist roles, orchestration, validation and continuity. Its documentation describes bounded task routing and separate review and validation responsibilities; behavior varies by configuration.
 
 ![Work request → Plan and route → Specialist work → Independent validation → Continuity and review](assets/portfolio/diagrams/skills-workflow.svg)
 
 ### New Project Tool — Project setup workflows
+
+![New Project Tool — Project setup workflows — illustrative product concept](assets/portfolio/newproject.webp)
+
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
 
 A private project setup toolkit containing project templates, specifications, setup scripts, tests and orchestration material. It reflects work on repeatable project foundations and structured AI-assisted development.
 
