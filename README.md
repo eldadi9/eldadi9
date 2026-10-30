@@ -163,7 +163,7 @@ I bring 20+ years of business and operational leadership, technical project deli
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/ui/icon-2.png" width="22" alt="•"> שופט AI מכייל עד ±15. בלי דרישת חובה, אין התאמה
+<img src="./assets/ui/icon-2.png" width="22" alt="•"> שופט AI מסייע בבחינת התאמה; דרישות חובה נבדקות בנפרד
 
 </td>
 <td width="50%" valign="top">
@@ -289,7 +289,7 @@ I bring 20+ years of business and operational leadership, technical project deli
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/ui/icon-2.png" width="22" alt="•"> 7 דוחות מובנים, ודוחות דינמיים לפי בקשה
+<img src="./assets/ui/icon-2.png" width="22" alt="•"> דוחות מובנים ודוחות דינמיים לפי בקשה
 
 </td>
 <td width="50%" valign="top">
@@ -456,7 +456,7 @@ I bring 20+ years of business and operational leadership, technical project deli
 
 #### <img src="./assets/ui/mark.png" width="18" alt="▪"> איפה זה עומד
 
-מוצר רחב: 25 מסכים ויותר מ-300 עדכוני קוד, עם מסלול דגל בתאילנד.
+מוצר משפחתי הכולל מסכי תכנון וכלי טיול, עם מסלול דגל בתאילנד.
 
 <p align="center"><img src="./assets/ui/divider.png" alt="קו הפרדה" width="100%"></p>
 
