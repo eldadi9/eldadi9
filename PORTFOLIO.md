@@ -10,7 +10,7 @@
 
 </div>
 
-I identify the real problem behind a business request, understand the people, processes and data involved, and turn that understanding into practical AI products and connected workflows. My work combines over 20 years of business and operational leadership with hands-on AI exploration and AI-assisted building since early 2023.
+I identify the real problem behind a business request, understand the people, processes and data involved, and turn that understanding into practical AI products and connected workflows. My work combines over 20 years of business and operational leadership — building and running businesses, leading teams, and working with customers, suppliers and service operations — with hands-on AI exploration and AI-assisted building since early 2023.
 
 As a Project Manager at Verifone Israel, I work across customers, business stakeholders and technical teams. In parallel, I conceive and build independent AI products. I bring business discovery, system analysis and technical delivery together: from the first question through requirements, design, development, testing and improvement.
 
