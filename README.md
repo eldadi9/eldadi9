@@ -1,5 +1,29 @@
 <p align="center" dir="rtl"><img src="./assets/hero.png" alt="אלדד גונשרוביץ'" width="100%"><br><img src="./assets/ui/pulse.svg" alt="קו סריקה מונפש, קישוט" width="100%"></p>
 
+<div dir="ltr" lang="en">
+
+# Eldad Gonsherovitz
+
+### AI Solutions & Agentic Systems Lead
+
+I turn complex business problems into practical AI solutions. I start by understanding the people, processes, data and decisions behind a problem, then translate that understanding into requirements and a working solution.
+
+I bring 20+ years of business and operational leadership, technical project delivery, and hands-on AI exploration and building since early 2023. At Verifone Israel, I lead implementation work across business and technical stakeholders. In parallel, I conceive and build AI products and connected workflows using AI-assisted development.
+
+**What I bring**
+
+- **Business and systems analysis:** process mapping, discovery, PRDs, requirements and acceptance criteria.
+- **Agentic systems:** AI agents, multi-agent orchestration, LLM workflows, validation and human approval.
+- **Integrations and automation:** APIs, SOAP, webhooks, MCP and n8n.
+- **Technical delivery:** roadmaps, milestones, stakeholder coordination, testing and implementation.
+- **Measurement and improvement:** dashboards, reporting, monitoring and iteration.
+
+**Selected work:** JobHunterX is an independent, production-verified multi-agent career operations system. Verifone APEX is an agentic business intelligence and operations solution I conceived and built to connect enterprise data and support natural-language questions and reporting. Both repositories are private; public descriptions are limited to non-confidential capabilities.
+
+[LinkedIn](https://www.linkedin.com/in/eldad-gonsherovitz-97153846/) · Project demonstrations available on request
+
+</div>
+
 <div dir="rtl" lang="he">
 
 # אלדד גונשרוביץ'
