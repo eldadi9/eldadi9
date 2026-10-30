@@ -18,6 +18,15 @@ I turn complex business problems into practical AI solutions. I start by underst
 
 I bring 20+ years of business and operational leadership, technical project delivery, and hands-on AI exploration and building since early 2023. At Verifone Israel, I lead implementation work across business and technical stakeholders. In parallel, I conceive and build AI products and connected workflows using AI-assisted development.
 
+## Featured work
+
+- [**JobHunterX**](./PORTFOLIO.md#jobhunterx--human-controlled-ai-career-operations) — human-controlled AI career operations, from job discovery to interview preparation.
+- [**APEX**](./PORTFOLIO.md#apex--agentic-business-intelligence-and-operations) — agentic business intelligence connecting questions, systems and reporting.
+- [**ThaiFamily Trip**](./PORTFOLIO.md#thaifamily-trip--ai-assisted-family-travel-planning) — AI-assisted family travel planning with maps and practical tools.
+- [**WatchUp**](./PORTFOLIO.md#watchup--privacy-aware-family-alerts) — a privacy-aware family alert dashboard.
+
+[**Explore all project stories, diagrams and tools →**](./PORTFOLIO.md)
+
 **What I bring**
 
 - **Business and systems analysis:** process mapping, discovery, PRDs, requirements and acceptance criteria.
