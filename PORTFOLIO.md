@@ -16,14 +16,7 @@ As a Project Manager at Verifone Israel, I work across customers, business stake
 
 ## How I work
 
-```mermaid
-flowchart TB
-    A[Understand the business problem] --> B[Map processes and requirements]
-    B --> C[Design the solution and workflows]
-    C --> D[Build with AI and integrations]
-    D --> E[Test, review and implement]
-    E --> F[Measure and improve]
-```
+![Understand the business problem → Map processes and requirements → Design the solution and workflows → Build with AI and integrations → Test, review and implement → Measure and improve](assets/portfolio/diagrams/business-workflow.svg)
 
 - **Business and systems analysis:** discovery, process mapping, PRDs, requirements, user stories and acceptance criteria.
 - **AI and agentic systems:** LLM workflows, specialized agents, orchestration, prompt design, validation and human approval.
@@ -43,14 +36,7 @@ Job searching often involves fragmented job sources, repetitive résumé tailori
 
 <sub>Illustrative concept — not a product screenshot or real data.</sub>
 
-```mermaid
-flowchart TB
-    A[Job discovery] --> B[Explainable fit and requirement review]
-    B --> C[Check listing status]
-    C --> D[Truthful resume and application preparation]
-    D --> E[Human review and approval]
-    E --> F[Tracking and interview preparation]
-```
+![Job discovery → Explainable fit and requirement review → Check listing status → Truthful resume and application preparation → Human review and approval → Tracking and interview preparation](assets/portfolio/diagrams/jobhunterx-workflow.svg)
 
 - Specialized agents coordinate discovery, matching, job liveness, application preparation and reporting.
 - A Hebrew-first dashboard brings opportunities, approvals, application tracking and interview preparation together.
@@ -66,13 +52,7 @@ Business information often lives in separate systems. I conceived and built APEX
 
 <sub>Illustrative concept — not a product screenshot or real data.</sub>
 
-```mermaid
-flowchart TB
-    A[Business question] --> B[Agent orchestration]
-    B --> C[Connected data sources]
-    C --> D[Analysis and reporting]
-    D --> E[Human decision]
-```
+![Business question → Agent orchestration → Connected data sources → Analysis and reporting → Human decision](assets/portfolio/diagrams/apex-workflow.svg)
 
 - Specialized agents, orchestration and integrations support analysis and reporting across systems.
 - The work spans business discovery, product vision, requirements, solution design and AI-assisted development.
@@ -109,12 +89,7 @@ I built WatchUp to help parents notice selected communication alerts without rev
 
 I built a family-oriented assistant to reduce repeated portal checking. It collects and organizes school updates, detects changes and supports Telegram notifications and reminders.
 
-```mermaid
-flowchart TB
-    A[School updates] --> B[Browser automation and change detection]
-    B --> C[Organize updates]
-    C --> D[Telegram notifications and reminders]
-```
+![School updates → Browser automation and change detection → Organize updates → Telegram notifications and reminders](assets/portfolio/diagrams/webtopkids-workflow.svg)
 
 **Technologies and interfaces:** Node.js, Playwright, browser automation and Telegram. Private project; no student or school information is disclosed.
 
@@ -126,12 +101,7 @@ flowchart TB
 
 I built a voice-first assistant that transcribes spoken ideas, creates useful titles and helps organize them into workflows such as tasks, calendar events, email drafts or spreadsheet entries. It combines AI and Google integrations in a Hebrew-first mobile experience.
 
-```mermaid
-flowchart TB
-    A[Speak a thought] --> B[Transcription and title]
-    B --> C[Review and organize]
-    C --> D[Notes or connected workflow]
-```
+![Speak a thought → Transcription and title → Review and organize → Notes or connected workflow](assets/portfolio/diagrams/remindme-workflow.svg)
 
 ### Voice GmailBot — AI workspace assistant
 
@@ -153,12 +123,7 @@ I built a Hebrew-first app for organizing gift cards, combining image scanning, 
 
 A Hebrew-first intake workflow designed to turn an initial business request into a structured automation brief. A five-step form groups the problem, success criteria, requirements, inputs and outputs, integration needs, timing and supporting files. The implementation packages the submission as structured data with an RTL HTML requirements document for downstream workflow processing.
 
-```mermaid
-flowchart TB
-    A[Business request] --> B[Structured intake]
-    B --> C[Requirements document]
-    C --> D[Workflow handoff]
-```
+![Business request → Structured intake → Requirements document → Workflow handoff](assets/portfolio/diagrams/prd-workflow.svg)
 
 **Tools and interfaces:** React, TypeScript, Vite, React Hook Form, Zod, Supabase Edge Functions and n8n webhooks. This is a private prototype; integrations listed in its intake form are choices, not claims that each service is connected.
 
@@ -166,36 +131,19 @@ flowchart TB
 
 ELDO explores a personal assistant with structured memory, action policies, audit-oriented workflows and sandbox adapters. Live transport and deployment are still under development.
 
-```mermaid
-flowchart TB
-    A[User request] --> B[Context and memory]
-    B --> C[Action policy]
-    C --> D[Controlled sandbox workflow]
-    D --> E[Traceable outcome]
-```
+![User request → Context and memory → Action policy → Controlled sandbox workflow → Traceable outcome](assets/portfolio/diagrams/eldo-workflow.svg)
 
 ### DREAM TEAM — Agent work overview
 
 A private dashboard designed to bring project, task and agent activity together and make work that needs attention easier to find.
 
-```mermaid
-flowchart TB
-    A[Projects and tasks] --> D[Work overview]
-    B[Agent activity] --> D
-    D --> E[Items needing attention]
-```
+![Projects, tasks and agent activity → Work overview → Items needing attention](assets/portfolio/diagrams/dreamteam-workflow.svg)
 
 ### EG Skills Core — AI work orchestration
 
 A private agent-work framework with reusable skills, specialist roles, orchestration, validation and continuity. Its documentation describes bounded task routing and separate review and validation responsibilities; behavior varies by configuration.
 
-```mermaid
-flowchart TB
-    A[Work request] --> B[Plan and route]
-    B --> C[Specialist work]
-    C --> D[Independent validation]
-    D --> E[Continuity and review]
-```
+![Work request → Plan and route → Specialist work → Independent validation → Continuity and review](assets/portfolio/diagrams/skills-workflow.svg)
 
 ### New Project Tool — Project setup workflows
 
