@@ -1,1199 +1,197 @@
-<p align="center" dir="rtl"><img src="./assets/hero.png" alt="אלדד גונשרוביץ'" width="100%"><br><img src="./assets/ui/pulse.svg" alt="קו סריקה מונפש, קישוט" width="100%"></p>
+<p align="center"><img src="./assets/profile-banner-v2.webp" alt="From business insight to connected AI systems" width="100%"></p>
+
 <div align="center">
-
-### [Explore the public project portfolio →](./PORTFOLIO.md)
-
-The portfolio is the current public overview of project scope and status. Project stories, diagrams and technologies — with private repositories kept private.
-
-</div>
-
-
-<div dir="ltr" lang="en">
 
 # Eldad Gonsherovitz
 
 ### AI Solutions & Agentic Systems Lead
 
-I turn complex business problems into practical AI solutions. I start by understanding the people, processes, data and decisions behind a problem, then translate that understanding into requirements and a working solution.
+**Business problems → clear requirements → connected AI solutions → human-controlled delivery**
 
-I bring 20+ years of business and operational leadership, technical project delivery, and hands-on AI exploration and building since early 2023. At Verifone Israel, I lead implementation work across business and technical stakeholders. In parallel, I conceive and build AI products and connected workflows using AI-assisted development.
-
-## Featured work
-
-- [**JobHunterX**](./PORTFOLIO.md#jobhunterx--human-controlled-ai-career-operations) — human-controlled AI career operations, from job discovery to interview preparation.
-- [**APEX**](./PORTFOLIO.md#apex--agentic-business-intelligence-and-operations) — agentic business intelligence connecting questions, systems and reporting.
-- [**ThaiFamily Trip**](./PORTFOLIO.md#thaifamily-trip--ai-assisted-family-travel-planning) — AI-assisted family travel planning with maps and practical tools.
-- [**WatchUp**](./PORTFOLIO.md#watchup--privacy-aware-family-alerts) — a privacy-aware family alert dashboard.
-
-[**Explore all project stories, diagrams and tools →**](./PORTFOLIO.md)
-
-**What I bring**
-
-- **Business and systems analysis:** process mapping, discovery, PRDs, requirements and acceptance criteria.
-- **Agentic systems:** AI agents, multi-agent orchestration, LLM workflows, validation and human approval.
-- **Integrations and automation:** APIs, SOAP, webhooks, MCP and n8n.
-- **Technical delivery:** roadmaps, milestones, stakeholder coordination, testing and implementation.
-- **Measurement and improvement:** dashboards, reporting, monitoring and iteration.
-
-**Selected work:** JobHunterX is an independent multi-agent career operations system with documented deployment and regression checks. APEX is an agentic business intelligence and operations solution I conceived and built to connect enterprise data and support natural-language questions and reporting. Both repositories are private; public descriptions are limited to non-confidential capabilities.
-
-[LinkedIn](https://www.linkedin.com/in/eldad-gonsherovitz-97153846/) · Project demonstrations available on request
+[LinkedIn](https://www.linkedin.com/in/eldad-gonsherovitz-97153846/) · Private project demonstrations available on request
 
 </div>
 
-<div dir="rtl" lang="he">
+I identify the real problem behind a business request, understand the people, processes and data involved, and turn that understanding into practical AI products and connected workflows. My work combines over 20 years of business and operational leadership with hands-on AI exploration and AI-assisted building since early 2023.
 
-**לתיאורי פרויקטים מעודכנים:** [תיק העבודות המלא](./PORTFOLIO.md). המאגרים הפרטיים נשארים פרטיים.
+As a Project Manager at Verifone Israel, I work across customers, business stakeholders and technical teams. In parallel, I conceive and build independent AI products. I bring business discovery, system analysis and technical delivery together: from the first question through requirements, design, development, testing and improvement.
 
+## How I work
 
-# אלדד גונשרוביץ'
+![Understand the business problem → Map processes and requirements → Design the solution and workflows → Build with AI and integrations → Test, review and implement → Measure and improve](assets/portfolio/diagrams/business-workflow.svg)
 
-**מומחה באוטומציות ופתרון בעיות | EG Solutions**
+- **Business and systems analysis:** discovery, process mapping, PRDs, requirements, user stories and acceptance criteria.
+- **AI and agentic systems:** LLM workflows, specialized agents, orchestration, prompt design, validation and human approval.
+- **Integrations and automation:** APIs, SOAP, webhooks, MCP, n8n and connected business workflows.
+- **Product and project delivery:** roadmaps, prioritization, stakeholder coordination, implementation and acceptance testing.
+- **Quality and improvement:** E2E and regression testing, dashboards, reporting, monitoring and iteration.
 
-אני בונה סוכני AI שעושים עבודה אמיתית, ויודעים מתי לעצור ולשאול.
+## Selected projects
 
-שנים של ניהול ותפעול עסקי, לוגיסטיקה וכספים. היום אני בונה בעצמי סוכני AI ואוטומציות שפותרים בעיות אמיתיות.
+These descriptions show the product problem, approach and relevant technology. Most repositories are private; their summaries intentionally exclude confidential or personal data. Availability, integrations and operational status can change. Demonstrations use approved or synthetic information.
 
-סורק לפני שבונה, מתכנן לפני שמבצע, ודורש הוכחה לכל טענה. וכשסוכן פועל בשמי, הוא עוצר ושואל לפני כל צעד שיוצא החוצה.
+### JobHunterX — Human-controlled AI career operations
 
-<p align="center">
-<a href="#jobhunterx"><img src="./assets/nav/01-jobhunterx.png" width="32%" alt="01 JobHunterX"></a>
-<a href="#apex"><img src="./assets/nav/02-apex.png" width="32%" alt="02 Apex"></a>
-<a href="#thaifamily-trip"><img src="./assets/nav/03-thaifamily-trip.png" width="32%" alt="03 thaifamily-trip"></a><br>
-<a href="#watchup"><img src="./assets/nav/04-watchup.png" width="32%" alt="04 WatchUp"></a>
-<a href="#webtopkids"><img src="./assets/nav/05-webtopkids.png" width="32%" alt="05 WebtopKids"></a>
-<a href="#voice-gmailbot"><img src="./assets/nav/06-voice-gmailbot.png" width="32%" alt="06 Voice_GmailBot"></a><br>
-<a href="#remind-me"><img src="./assets/nav/07-remind-me.png" width="32%" alt="07 remind-me"></a>
-<a href="#eldo"><img src="./assets/nav/08-eldo.png" width="32%" alt="08 ELDO"></a>
-<a href="#dream-team"><img src="./assets/nav/09-dream-team.png" width="32%" alt="09 DREAM_TEAM"></a>
-</p>
+Job searching often involves fragmented job sources, repetitive résumé tailoring and scattered follow-up. I conceived and built JobHunterX to bring the process into one controlled workflow.
 
-<p align="center"><img src="./assets/ui/divider.png" alt="קו הפרדה" width="100%"></p>
+![JobHunterX — illustrative product concept](assets/portfolio/jobhunterx.webp)
 
-<a id="jobhunterx"></a>
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
 
-### <img src="./assets/cards/01-jobhunterx.png" alt="JobHunterX (פרטי)" width="100%">
+![Job discovery → Explainable fit and requirement review → Check listing status → Truthful resume and application preparation → Human review and approval → Tracking and interview preparation](assets/portfolio/diagrams/jobhunterx-workflow.svg)
 
-**מנוע התאמת משרות אוטונומי: סורק את השוק, מדרג, מכין מועמדות ומלווה עד הראיון.**
+- Specialized agents coordinate discovery, matching, job liveness, application preparation and reporting.
+- A Hebrew-first dashboard brings opportunities, approvals, application tracking and interview preparation together.
+- Résumé content is grounded in candidate facts; there is no auto-apply, and Gmail sending is opt-in and approval-gated.
+- **Technologies and interfaces:** Python, FastAPI, React, AI services, optional n8n and messaging integrations.
+- **Status:** private independent project; production deployment and regression checks have been documented.
 
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> הבעיה
+### APEX — Agentic business intelligence and operations
 
-מועמד רציני מבזבז את רוב הזמן על סינון: עשרות לוחות ומערכות גיוס, משרות שנסגרו מזמן אבל עדיין מופיעות, קורות חיים שצריך להתאים לכל משרה, ומעקב ידני אחרי כל מועמדות. ההחלטות שבאמת חשובות נדחקות לסוף היום.
+Business information often lives in separate systems. I conceived and built APEX around a practical question: how can a user ask in natural language and turn connected business data into a useful answer?
 
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה המערכת עושה
+![APEX — illustrative product concept](assets/portfolio/apex.webp)
 
-<table>
-<tr>
-<td width="72" valign="top" align="center">
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
 
-<img src="./assets/ui/step-01.png" width="40" alt="01">
+![Business question → Agent orchestration → Connected data sources → Analysis and reporting → Human decision](assets/portfolio/diagrams/apex-workflow.svg)
 
-</td>
-<td valign="top">
+- Specialized agents, orchestration and integrations support analysis and reporting across systems.
+- The work spans business discovery, product vision, requirements, solution design and AI-assisted development.
+- **Technologies and interfaces:** Python, FastAPI, APIs, SOAP and MCP.
+- **Status:** private project; this overview deliberately omits enterprise data and internal operational details.
 
-סורקת מקורות משרות מוגדרים, ממערכות גיוס בעולם ועד לוחות בישראל.
+### ThaiFamily Trip — AI-assisted family travel planning
 
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
+![ThaiFamily Trip — illustrative product concept](assets/portfolio/thaifamily.webp)
 
-<img src="./assets/ui/step-02.png" width="40" alt="02">
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
 
-</td>
-<td valign="top">
+I built a travel planner that brings itinerary design, place discovery, maps and practical tools into a Hebrew-first mobile experience. It is designed around family needs, travel pace and destination context.
 
-מסננת כפילויות, מדרגת התאמה ובודקת שהמשרה עדיין פתוחה.
+The planning flow connects family preferences, destination information and AI-assisted itinerary generation, with a map-based way to explore places. The experience includes practical travel tools alongside the planner.
 
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
+**Technologies and interfaces:** React, TypeScript, Leaflet, Supabase, OpenAI and n8n integrations. The project is private; this overview excludes personal itineraries and family information.
 
-<img src="./assets/ui/step-03.png" width="40" alt="03">
+### WatchUp — Privacy-aware family alerts
 
-</td>
-<td valign="top">
+![WatchUp — illustrative product concept](assets/portfolio/watchup.webp)
 
-מתאימה קורות חיים, כותבת מכתב מקדים ומכינה את המועמדות.
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
 
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
+I built WatchUp to help parents notice selected communication alerts without reviewing every conversation. The documented experience includes a Hebrew dashboard, configurable alerts and a read-only integration that does not send or modify messages.
 
-<img src="./assets/ui/step-04.png" width="40" alt="04">
+**Status:** private project. No family or message data is shown here.
 
-</td>
-<td valign="top">
+### WebtopKids — School updates made simple
 
-עוצרת לאישור אנושי. שום מועמדות לא יוצאת בלי אישור.
+![webtopkids — illustrative product concept](assets/portfolio/webtopkids.webp)
 
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
 
-<img src="./assets/ui/step-05.png" width="40" alt="05">
+I built a family-oriented assistant to reduce repeated portal checking. It collects and organizes school updates, detects changes and supports Telegram notifications and reminders.
 
-</td>
-<td valign="top">
+![School updates → Browser automation and change detection → Organize updates → Telegram notifications and reminders](assets/portfolio/diagrams/webtopkids-workflow.svg)
 
-עוקבת אחרי כל מועמדות, ומכינה חבילה ותרגול לראיון.
+**Technologies and interfaces:** Node.js, Playwright, browser automation and Telegram. Private project; no student or school information is disclosed.
 
-</td>
-</tr>
-</table>
+### Remind Me — Voice-first AI assistant
 
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> יכולות
+![remindme — illustrative product concept](assets/portfolio/remindme.webp)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
 
-<img src="./assets/ui/icon-0.png" width="22" alt="•"> מקורות משרות מגוונים במנוע אחד
+I built a voice-first assistant that transcribes spoken ideas, creates useful titles and helps organize them into workflows such as tasks, calendar events, email drafts or spreadsheet entries. It combines AI and Google integrations in a Hebrew-first mobile experience.
 
-</td>
-<td width="50%" valign="top">
+![Speak a thought → Transcription and title → Review and organize → Notes or connected workflow](assets/portfolio/diagrams/remindme-workflow.svg)
 
-<img src="./assets/ui/icon-1.png" width="22" alt="•"> דירוג התאמה בעברית ובאנגלית, עם הסבר לכל ציון
+### Voice GmailBot — AI workspace assistant
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+![voice — illustrative product concept](assets/portfolio/voice.webp)
 
-<img src="./assets/ui/icon-2.png" width="22" alt="•"> שופט AI מסייע בבחינת התאמה; דרישות חובה נבדקות בנפרד
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
 
-</td>
-<td width="50%" valign="top">
+I built an assistant that connects productivity workflows through voice or natural language. It brings Gmail, Calendar, Contacts and Telegram together through n8n and MCP, supporting tasks such as drafting, scheduling and information retrieval.
 
-<img src="./assets/ui/icon-3.png" width="22" alt="•"> זיהוי משרות שכבר נסגרו
+### GiftWallet — Smart gift card management
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+![giftwallet — illustrative product concept](assets/portfolio/giftwallet.webp)
 
-<img src="./assets/ui/icon-4.png" width="22" alt="•"> התאמת קורות חיים ומכתב לכל משרה
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
 
-</td>
-<td width="50%" valign="top">
+I built a Hebrew-first app for organizing gift cards, combining image scanning, barcode validation and a dashboard, with optional cloud storage. Its documented stack includes React, TypeScript, OCR and optional Supabase.
 
-<img src="./assets/ui/icon-5.png" width="22" alt="•"> תור אישורים לפני כל שליחה
+### PRD Intake & Automation Brief — From business need to structured brief
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+![PRD Intake & Automation Brief — From business need to structured brief — illustrative product concept](assets/portfolio/prd.webp)
 
-<img src="./assets/ui/icon-6.png" width="22" alt="•"> מעקב סטטוס מלא, מהגשה ועד הצעה
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
 
-</td>
-<td width="50%" valign="top">
+A Hebrew-first intake workflow designed to turn an initial business request into a structured automation brief. A five-step form groups the problem, success criteria, requirements, inputs and outputs, integration needs, timing and supporting files. The implementation packages the submission as structured data with an RTL HTML requirements document for downstream workflow processing.
 
-<img src="./assets/ui/icon-7.png" width="22" alt="•"> הכנה לראיון וסימולציית ראיון
+![Business request → Structured intake → Requirements document → Workflow handoff](assets/portfolio/diagrams/prd-workflow.svg)
 
-</td>
-</tr>
-</table>
+**Tools and interfaces:** React, TypeScript, Vite, React Hook Form, Zod, Supabase Edge Functions and n8n webhooks. This is a private prototype; integrations listed in its intake form are choices, not claims that each service is connected.
 
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה מייחד
+### ELDO — Personal AI agent in development
 
-השליטה בעלות מובנית: ה-AI מופעל רק על משרות שהציון שלהן גבולי, ויש תקרה לכל סריקה. והאדם נשאר בשליטה מלאה: המערכת מכינה הכול, אבל לא שולחת לבד.
+![ELDO — Personal AI agent in development — illustrative product concept](assets/portfolio/eldo.webp)
 
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> איפה זה עומד
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
 
-מערכת רחבה שפותחה באופן מתמשך, עם יומן שגיאות ותהליכי בדיקה ובקרה.
+ELDO explores a personal assistant with structured memory, action policies, audit-oriented workflows and sandbox adapters. Live transport and deployment are still under development.
 
-<p align="center"><img src="./assets/ui/divider.png" alt="קו הפרדה" width="100%"></p>
+![User request → Context and memory → Action policy → Controlled sandbox workflow → Traceable outcome](assets/portfolio/diagrams/eldo-workflow.svg)
 
-<a id="apex"></a>
+### DREAM TEAM — Agent work overview
 
-### <img src="./assets/cards/02-apex.png" alt="Apex (פרטי)" width="100%">
+![DREAM TEAM — Agent work overview — illustrative product concept](assets/portfolio/dreamteam.webp)
 
-**מערכת BI ותפעול מבוססת סוכנים: שואלים בעברית ומקבלים תובנות ממקורות נתונים מחוברים.**
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
 
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> הבעיה
+A private dashboard designed to bring project, task and agent activity together and make work that needs attention easier to find.
 
-בארגונים רבים הנתונים יושבים במערכות ישנות וחדשות שלא מדברות זו עם זו. כדי לענות על שאלה תפעולית פשוטה צריך לשלוף מכמה מקומות, להצליב ידנית ולבנות דוח. התשובה מגיעה מאוחר, ולפעמים לא מגיעה בכלל.
+![Projects, tasks and agent activity → Work overview → Items needing attention](assets/portfolio/diagrams/dreamteam-workflow.svg)
 
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה המערכת עושה
+### EG Skills Core — AI work orchestration
 
-<table>
-<tr>
-<td width="72" valign="top" align="center">
+![EG Skills Core — AI work orchestration — illustrative product concept](assets/portfolio/egskills.webp)
 
-<img src="./assets/ui/step-01.png" width="40" alt="01">
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
 
-</td>
-<td valign="top">
+A private agent-work framework with reusable skills, specialist roles, orchestration, validation and continuity. Its documentation describes bounded task routing and separate review and validation responsibilities; behavior varies by configuration.
 
-מאחדת כמה מקורות נתונים, ישנים וחדשים, לתמונה אחת.
+![Work request → Plan and route → Specialist work → Independent validation → Continuity and review](assets/portfolio/diagrams/skills-workflow.svg)
 
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
+### New Project Tool — Project setup workflows
 
-<img src="./assets/ui/step-02.png" width="40" alt="02">
+![New Project Tool — Project setup workflows — illustrative product concept](assets/portfolio/newproject.webp)
 
-</td>
-<td valign="top">
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
 
-מקבלת שאלה חופשית בעברית, וסוכן מתכנן לבד את הצעדים.
+A private project setup toolkit containing project templates, specifications, setup scripts, tests and orchestration material. It reflects work on repeatable project foundations and structured AI-assisted development.
 
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
+### More public code
 
-<img src="./assets/ui/step-03.png" width="40" alt="03">
+- [TextBridge](https://github.com/eldadi9/TextBridge) — Hebrew–English AI translation, with plain text and Markdown-oriented workflows.
+- [Fridge Chef](https://github.com/eldadi9/fridge-chef) — food and recipe workflows combining AI-related components and external data sources.
+- [VoxScribe](https://github.com/eldadi9/VoxScribe) — early-stage transcription and meeting-summary project; planned features are not presented as finished.
 
-</td>
-<td valign="top">
+## Tools and technologies
 
-סוכנים ייעודיים שולפים, מנתחים ומפעילים חוקים עסקיים.
+**AI:** AI agents · multi-agent orchestration · LLMs · prompt design · ChatGPT · Claude · Codex · Cursor
 
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
+**Systems and integrations:** APIs · SOAP · webhooks · MCP · n8n · Python · FastAPI · React · TypeScript · SQL
 
-<img src="./assets/ui/step-04.png" width="40" alt="04">
+**Product and delivery:** business analysis · system analysis · PRDs · roadmaps · user stories · E2E and regression testing · dashboards · KPIs
 
-</td>
-<td valign="top">
+Tools listed here represent the breadth of my work across projects; they do not imply the same level of proficiency or use in every project.
 
-מחזירה דוח, מצגת, קובץ Excel או התראה מתוזמנת.
+---
 
-</td>
-</tr>
-</table>
+### גם בעברית
 
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> יכולות
+אני מחבר בין הבנה עסקית, אפיון מערכות ובנייה מעשית של פתרונות AI. אני מתחיל בזיהוי הבעיה ובמיפוי האנשים, התהליכים והמידע, וממשיך לתכנון, בנייה, בדיקות ושיפור — תוך שמירה על בקרה אנושית במקומות המתאימים.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**תיק עבודות והדגמות:** חלק מהפרויקטים פרטיים; אפשר לתאם הדגמה שאינה חושפת מידע רגיש דרך [LinkedIn](https://www.linkedin.com/in/eldad-gonsherovitz-97153846/).
 
-<img src="./assets/ui/icon-0.png" width="22" alt="•"> שאלות חופשיות בעברית
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-1.png" width="22" alt="•"> מנוע המנתב בקשות למשימות ולסוכנים מתאימים
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-2.png" width="22" alt="•"> דוחות מובנים ודוחות דינמיים לפי בקשה
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-3.png" width="22" alt="•"> הפקת מצגות וקובצי Excel אוטומטית
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-4.png" width="22" alt="•"> התראות מתוזמנות לטלגרם ולמייל
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-5.png" width="22" alt="•"> מחולל תוויות והדפסה, כולל QR
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-6.png" width="22" alt="•"> חיבור לעוזרי AI באמצעות כלי MCP
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-7.png" width="22" alt="•"> בקרת בריאות עם תיקון אוטומטי
-
-</td>
-</tr>
-</table>
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה מייחד
-
-שאלה אחת בעברית מחליפה שליפה ידנית מכמה מערכות. אותה מערכת עונה על השאלה, מפיקה את הדוח ושולחת את ההתראה.
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> איפה זה עומד
-
-מערכת רחבה עם ממשקים, כלי AI ודוחות; היכולות משתנות בהתאם לתצורה ולשלב הפרויקט.
-
-<p align="center"><img src="./assets/ui/divider.png" alt="קו הפרדה" width="100%"></p>
-
-<a id="thaifamily-trip"></a>
-
-### <img src="./assets/cards/03-thaifamily-trip.png" alt="thaifamily-trip (פרטי)" width="100%">
-
-**מתכנן טיולים משפחתי מבוסס AI, שמתאים את המסלול לגילאי הילדים, לשעות השינה ולעגלה.**
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> הבעיה
-
-תכנון טיול משפחתי לחו"ל מתפזר בין עשרות אתרים, קבוצות וקבצים. כלי תכנון רגילים לא יודעים שיש בבית ילדים קטנים, שהעגלה לא עולה בכל שביל, ושיום עמוס מדי נגמר בבכי. והכול באנגלית.
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה המערכת עושה
-
-<table>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-01.png" width="40" alt="01">
-
-</td>
-<td valign="top">
-
-המשפחה מגדירה יעד, תאריכים, קצב טיול וגילאי הילדים.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-02.png" width="40" alt="02">
-
-</td>
-<td valign="top">
-
-ה-AI בונה מסלול יומי לפי שעות שינה, עגלה וקצב המשפחה.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-03.png" width="40" alt="03">
-
-</td>
-<td valign="top">
-
-מקומות אמיתיים מ-Google Places וממפות פתוחות, על מפה ועם המלצות לערב.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-04.png" width="40" alt="04">
-
-</td>
-<td valign="top">
-
-סוכן בוואטסאפ עונה למשפחה, מציע פעולות ומחכה לאישור.
-
-</td>
-</tr>
-</table>
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> יכולות
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-0.png" width="22" alt="•"> מסלול יומי שנבנה לפי גילאי הילדים
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-1.png" width="22" alt="•"> רגישות לשעות שינה ולעגלה
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-2.png" width="22" alt="•"> מקומות אמיתיים עם הכוונה מנמל או משדה
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-3.png" width="22" alt="•"> מפה אינטראקטיבית
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-4.png" width="22" alt="•"> השוואת מלונות, תרגום ומסמכים
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-5.png" width="22" alt="•"> רשימת אריזה במקום אחד
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-6.png" width="22" alt="•"> סוכן משפחתי בקבוצת הוואטסאפ
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-7.png" width="22" alt="•"> הבנת הודעות קוליות בקבוצה
-
-</td>
-</tr>
-</table>
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה מייחד
-
-זה לא עוד אתר טיולים: הסוכן חי בתוך קבוצת הוואטסאפ של המשפחה, עונה רק כשפונים אליו בשם, ולא מבצע שום שינוי בלי אישור. ובעברית מההתחלה ועד הסוף.
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> איפה זה עומד
-
-מוצר משפחתי הכולל מסכי תכנון וכלי טיול, עם מסלול דגל בתאילנד.
-
-<p align="center"><img src="./assets/ui/divider.png" alt="קו הפרדה" width="100%"></p>
-
-<a id="watchup"></a>
-
-### <img src="./assets/cards/04-watchup.png" alt="WatchUp (פרטי)" width="100%">
-
-**שקט נפשי להורים, בלי לקרוא את השיחות של הילד.**
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> הבעיה
-
-הורים רוצים לדעת כשמשהו לא בסדר בוואטסאפ של הילד: מספר זר, מילה מדאיגה או קבוצה חדשה. אבל לקרוא כל שיחה זה לא פרקטי, וגם פוגע באמון. האפשרות הנוכחית היא לראות הכול, או לא לראות כלום.
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה המערכת עושה
-
-<table>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-01.png" width="40" alt="01">
-
-</td>
-<td valign="top">
-
-ההורה מחבר את חשבון הילד בסריקת קוד.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-02.png" width="40" alt="02">
-
-</td>
-<td valign="top">
-
-המערכת מזהה רק חריגים שההורה הגדיר מראש.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-03.png" width="40" alt="03">
-
-</td>
-<td valign="top">
-
-ההורה רואה דשבורד בעברית עם החריגים בלבד.
-
-</td>
-</tr>
-</table>
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> יכולות
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-0.png" width="22" alt="•"> התראה על מספר לא מזוהה
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-1.png" width="22" alt="•"> מילות מעקב שההורה מגדיר
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-2.png" width="22" alt="•"> זיהוי קבוצות חדשות ושינויים בחברות
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-3.png" width="22" alt="•"> לוח זמנים לניטור לפי יום
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-4.png" width="22" alt="•"> דשבורד הורים בעברית
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-5.png" width="22" alt="•"> כמה ילדים במשפחה אחת, לכל אחד פרופיל משלו
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-6.png" width="22" alt="•"> יומן פעולות להורה
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-7.png" width="22" alt="•"> מחיקת כל נתוני המשפחה לפי בקשה
-
-</td>
-</tr>
-</table>
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה מייחד
-
-העיקרון הוא מינימום חשיפה: ההורה רואה רק את החריגים שהוא ביקש לראות, ולא את כל השיחות.
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> איפה זה עומד
-
-אב-טיפוס. התשתית לכמה משקי בית כבר קיימת, והפתיחה למשתמשים נוספים בתכנון.
-
-<p align="center"><img src="./assets/ui/divider.png" alt="קו הפרדה" width="100%"></p>
-
-<a id="webtopkids"></a>
-
-### <img src="./assets/cards/05-webtopkids.png" alt="WebtopKids (פרטי)" width="100%">
-
-**המידע מגיע למשפחה, במקום שהמשפחה תרדוף אחריו.**
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> הבעיה
-
-משימות, מועדי הגשה והודעות חשובות יושבים במערכת מקוונת פסיבית. כדי לדעת מה חדש צריך להיכנס, לחפש ולזכור לבדוק שוב. מה שלא נבדק בזמן מתגלה מאוחר מדי.
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה המערכת עושה
-
-<table>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-01.png" width="40" alt="01">
-
-</td>
-<td valign="top">
-
-בודקת את המקור אוטומטית כל 15 דקות.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-02.png" width="40" alt="02">
-
-</td>
-<td valign="top">
-
-מפרידה את המידע לפי בן משפחה ומסננת כפילויות וישן.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-03.png" width="40" alt="03">
-
-</td>
-<td valign="top">
-
-שולחת התראה מיידית בטלגרם רק על מה שבאמת חדש.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-04.png" width="40" alt="04">
-
-</td>
-<td valign="top">
-
-מזכירה לפני מועד הגשה, ומפסיקה כשהמשימה סומנה כבוצעה.
-
-</td>
-</tr>
-</table>
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> יכולות
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-0.png" width="22" alt="•"> 8 סוגי התראות מיידיות
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-1.png" width="22" alt="•"> תזכורות מדורגות לפני כל מועד הגשה
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-2.png" width="22" alt="•"> סימון «בוצע» שעוצר את התזכורות
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-3.png" width="22" alt="•"> בלי כפילויות, גם אחרי הפעלה מחדש
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-4.png" width="22" alt="•"> שעות שקט בין 21:00 ל-07:00
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-5.png" width="22" alt="•"> דשבורד עם 9 לשוניות
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-6.png" width="22" alt="•"> תובנות שבועיות ומגמות
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-7.png" width="22" alt="•"> בוט טלגרם עם פקודות מהירות
-
-</td>
-</tr>
-</table>
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה מייחד
-
-מערכת שיודעת מתי לדבר ומתי לשתוק. היא שולחת רק את מה שחדש ורלוונטי לכל בן משפחה, ומכבדת את שעות הלילה.
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> איפה זה עומד
-
-מערכת עם דשבורד ובוט טלגרם, שנבנתה לשימוש המשפחה.
-
-<p align="center"><img src="./assets/ui/divider.png" alt="קו הפרדה" width="100%"></p>
-
-<a id="voice-gmailbot"></a>
-
-### <img src="./assets/cards/06-voice-gmailbot.png" alt="Voice_GmailBot (פרטי)" width="100%">
-
-**עוזר אישי בקול, בעברית: מייל, יומן ואנשי קשר בהודעה אחת.**
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> הבעיה
-
-ניהול מייל ויומן דורש מסך, מקלדת וזמן. בדרך, בנהיגה או בין פגישות זה פשוט לא קורה. ורוב העוזרים הקוליים לא באמת מבינים עברית.
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה המערכת עושה
-
-<table>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-01.png" width="40" alt="01">
-
-</td>
-<td valign="top">
-
-שולחים לבוט בטלגרם הודעה קולית או כתובה, או מדברים באפליקציה.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-02.png" width="40" alt="02">
-
-</td>
-<td valign="top">
-
-ההודעה מתומללת, וסוכן AI מבין מה המשתמש רוצה.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-03.png" width="40" alt="03">
-
-</td>
-<td valign="top">
-
-הסוכן קורא, מחפש ומסכם ב-Gmail, ביומן ובאנשי הקשר.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-04.png" width="40" alt="04">
-
-</td>
-<td valign="top">
-
-הסוכן מציע פעולה או יוצר אירוע. במייל: סגנון, תצוגה מקדימה ואישור.
-
-</td>
-</tr>
-</table>
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> יכולות
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-0.png" width="22" alt="•"> הודעות קוליות בעברית, מתומללות אוטומטית
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-1.png" width="22" alt="•"> סיכום וחיפוש במייל
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-2.png" width="22" alt="•"> יצירה, עדכון וביטול אירועים ביומן
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-3.png" width="22" alt="•"> חיפוש וניהול של אנשי קשר ומשימות, עם אישור
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-4.png" width="22" alt="•"> כתיבת מייל ב-9 סגנונות
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-5.png" width="22" alt="•"> הבנת תאריכים בעברית, כמו «מחר»
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-6.png" width="22" alt="•"> זיהוי 17 סוגי בקשות
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-7.png" width="22" alt="•"> דוח בדיקת מערכת מובנה
-
-</td>
-</tr>
-</table>
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה מייחד
-
-עברית אמיתית, לא תרגום: הבוט מבין תאריכים, שמות חודשים וניסוחים יומיומיים בעברית, ומקבל גם הודעות קוליות וגם טקסט.
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> איפה זה עומד
-
-בוט טלגרם ואפליקציית ווב שמחוברים לאותו סוכן.
-
-<p align="center"><img src="./assets/ui/divider.png" alt="קו הפרדה" width="100%"></p>
-
-<a id="remind-me"></a>
-
-### <img src="./assets/cards/07-remind-me.png" alt="remind-me (פרטי)" width="100%">
-
-**אומרים מחשבה בקול, והיא הופכת לפעולה.**
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> הבעיה
-
-הרעיונות החשובים מגיעים בדיוק כשאין זמן להקליד: בנהיגה, בהליכה, באמצע יום עמוס. פתק קולי נשכח בטלפון, ומשימה שלא נרשמה לא קורית.
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה המערכת עושה
-
-<table>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-01.png" width="40" alt="01">
-
-</td>
-<td valign="top">
-
-לוחצים ומקליטים מחשבה בעברית.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-02.png" width="40" alt="02">
-
-</td>
-<td valign="top">
-
-ההקלטה מתומללת מילה במילה בצד השרת, ומקבלת כותרת.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-03.png" width="40" alt="03">
-
-</td>
-<td valign="top">
-
-ה-AI מזהה אם זה אירוע, משימה, מייל או שורה בגיליון.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-04.png" width="40" alt="04">
-
-</td>
-<td valign="top">
-
-נפתח טופס מוכן לאירוע, למשימה, למייל או לשורה בגיליון, לעריכה ולאישור.
-
-</td>
-</tr>
-</table>
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> יכולות
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-0.png" width="22" alt="•"> הקלטה בלחיצה אחת
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-1.png" width="22" alt="•"> תמלול בעברית, ששומר מונחים באנגלית
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-2.png" width="22" alt="•"> זיהוי אוטומטי של 6 סוגי כוונות
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-3.png" width="22" alt="•"> אירוע חדש ביומן
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-4.png" width="22" alt="•"> משימה חדשה בלחיצה
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-5.png" width="22" alt="•"> טיוטת מייל מוכנה
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-6.png" width="22" alt="•"> שורה בגיליון אישי, וייצוא ל-Excel
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-7.png" width="22" alt="•"> ניווט ב-Waze ישירות מהפתק
-
-</td>
-</tr>
-</table>
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה מייחד
-
-המרחק בין מחשבה לפעולה מתקצר להקלטה אחת. המשתמש רק מדבר, והמערכת מבינה לבד מה לעשות עם הפתק.
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> איפה זה עומד
-
-אפליקציה שמותקנת בטלפון כמו אפליקציה רגילה. שליחה גם לוואטסאפ נמצאת בתכנון.
-
-<p align="center"><img src="./assets/ui/divider.png" alt="קו הפרדה" width="100%"></p>
-
-<a id="eldo"></a>
-
-### <img src="./assets/cards/08-eldo.png" alt="ELDO (פרטי)" width="100%">
-
-**סוכן AI אישי שנבנה מהיסוד כדי שאפשר יהיה לסמוך עליו.**
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> הבעיה
-
-סוכן AI שפועל בשמך יכול לשלוח הודעה לאדם הלא נכון, לבצע פעולה שלא ביקשת, או להיות מופעל על ידי טקסט זדוני במייל או בדף אינטרנט. רוב הסוכנים בונים קודם יכולות, ורק אחר כך חושבים על בקרה.
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה המערכת עושה
-
-<table>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-01.png" width="40" alt="01">
-
-</td>
-<td valign="top">
-
-מקבלת פקודה מהבעלים בלבד, ומוודאת שהיא באמת ממנו.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-02.png" width="40" alt="02">
-
-</td>
-<td valign="top">
-
-מסווגת כל פעולה לירוקה, צהובה או אדומה.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-03.png" width="40" alt="03">
-
-</td>
-<td valign="top">
-
-פעולה רגישה ממתינה לאישור חד-פעמי מפורש.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-04.png" width="40" alt="04">
-
-</td>
-<td valign="top">
-
-ההודעה עוברת 8 שלבי בקרה ונרשמת ביומן ביקורת לפני שליחה.
-
-</td>
-</tr>
-</table>
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> יכולות
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-0.png" width="22" alt="•"> סיווג 28 פעולות לפי רמת סיכון
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-1.png" width="22" alt="•"> פעולה לא מוכרת נחסמת אוטומטית
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-2.png" width="22" alt="•"> סדרת תנאי עצירה לפני כל שליחה
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-3.png" width="22" alt="•"> דחיית ניסיונות להשתלט על הסוכן מבחוץ
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-4.png" width="22" alt="•"> אישורים חד-פעמיים עם תוקף
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-5.png" width="22" alt="•"> «אין רישום, אין שליחה»
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-6.png" width="22" alt="•"> מתג עצירה מיידי ומפסק אוטומטי
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-7.png" width="22" alt="•"> הגבלת קצב שליחה לשעה וליום
-
-</td>
-</tr>
-</table>
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה מייחד
-
-זה סוכן שנבנה עם דגש על צמצום טעויות ובקרת פעולות. אישור שמגיע ממייל, מדף אינטרנט או מטקסט אחר נדחה, ורק הבעלים יכול לאשר.
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> איפה זה עומד
-
-בפיתוח, בסביבה מבודדת, ועדיין לא שירות חי. חיבור לערוצים חיים כמו הודעות, SMS וקול נמצא בתכנון.
-
-<p align="center"><img src="./assets/ui/divider.png" alt="קו הפרדה" width="100%"></p>
-
-<a id="dream-team"></a>
-
-### <img src="./assets/cards/09-dream-team.png" alt="DREAM_TEAM (פרטי)" width="100%">
-
-**חדר הבקרה של צוות סוכני ה-AI שלי.**
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> הבעיה
-
-כשכמה סוכני AI עובדים במקביל על כמה פרויקטים, קשה לדעת מה קורה עכשיו, מה תקוע ומה מחכה להחלטה. העדכונים מתפזרים בין שיחות, קבצים ושרתים.
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה המערכת עושה
-
-<table>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-01.png" width="40" alt="01">
-
-</td>
-<td valign="top">
-
-מרכזת במסך אחד את המשימות, הסוכנים, הפרויקטים ומצב השרת.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-02.png" width="40" alt="02">
-
-</td>
-<td valign="top">
-
-מתעדכנת בזמן אמת, ומראה אם התצוגה מסונכרנת.
-
-</td>
-</tr>
-<tr>
-<td width="72" valign="top" align="center">
-
-<img src="./assets/ui/step-03.png" width="40" alt="03">
-
-</td>
-<td valign="top">
-
-מציגה קודם את מה שמחכה להחלטה שלי, לפי עדיפות.
-
-</td>
-</tr>
-</table>
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> יכולות
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-0.png" width="22" alt="•"> מסך «מה מחכה לך» לפי עדיפות
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-1.png" width="22" alt="•"> מטריצת פרויקטים וסטטוס עם צלילה לפרטים
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-2.png" width="22" alt="•"> טבלת משימות עם מיון, חיפוש וסינון
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-3.png" width="22" alt="•"> מסכי סוכנים ותחומי אחריות
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-4.png" width="22" alt="•"> יומן פעילות עם סינון
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-5.png" width="22" alt="•"> מעקב מכסה שבועית עד האיפוס
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-6.png" width="22" alt="•"> עדכונים חיים עם תווית סנכרון
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/ui/icon-7.png" width="22" alt="•"> מותקן בטלפון כמו אפליקציה
-
-</td>
-</tr>
-</table>
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> מה מייחד
-
-מסך אחד שבו רואים בבת אחת את כל העבודה של צוות סוכני ה-AI, ויודעים מה מחכה להחלטה שלי.
-
-#### <img src="./assets/ui/mark.png" width="18" alt="▪"> איפה זה עומד
-
-לוח שמותקן בטלפון, עם 11 לשוניות.
-
-<p align="center"><img src="./assets/ui/divider.png" alt="קו הפרדה" width="100%"></p>
-
-ועוד עשרות ריפו.
-
-**ליצירת קשר:** [LinkedIn](https://www.linkedin.com/in/eldad-gonsherovitz-97153846/)
-
-</div>
