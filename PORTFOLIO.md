@@ -17,7 +17,7 @@ As a Project Manager at Verifone Israel, I work across customers, business stake
 ## How I work
 
 ```mermaid
-flowchart LR
+flowchart TB
     A[Understand the business problem] --> B[Map processes and requirements]
     B --> C[Design the solution and workflows]
     C --> D[Build with AI and integrations]
@@ -25,13 +25,11 @@ flowchart LR
     E --> F[Measure and improve]
 ```
 
-| Area | What I bring |
-| --- | --- |
-| Business and systems analysis | Discovery, process mapping, PRDs, requirements, user stories and acceptance criteria |
-| AI and agentic systems | LLM workflows, specialized agents, orchestration, prompt design, validation and human approval |
-| Integrations and automation | APIs, SOAP, webhooks, MCP, n8n and connected business workflows |
-| Product and project delivery | Roadmaps, prioritization, stakeholder coordination, implementation and acceptance testing |
-| Quality and improvement | E2E and regression testing, dashboards, reporting, monitoring and iteration |
+- **Business and systems analysis:** discovery, process mapping, PRDs, requirements, user stories and acceptance criteria.
+- **AI and agentic systems:** LLM workflows, specialized agents, orchestration, prompt design, validation and human approval.
+- **Integrations and automation:** APIs, SOAP, webhooks, MCP, n8n and connected business workflows.
+- **Product and project delivery:** roadmaps, prioritization, stakeholder coordination, implementation and acceptance testing.
+- **Quality and improvement:** E2E and regression testing, dashboards, reporting, monitoring and iteration.
 
 ## Selected projects
 
@@ -43,8 +41,10 @@ Job searching often involves fragmented job sources, repetitive résumé tailori
 
 ![JobHunterX — illustrative product concept](assets/portfolio/jobhunterx.png)
 
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
+
 ```mermaid
-flowchart LR
+flowchart TB
     A[Job discovery] --> B[Explainable fit and requirement review]
     B --> C[Check listing status]
     C --> D[Truthful resume and application preparation]
@@ -56,7 +56,7 @@ flowchart LR
 - A Hebrew-first dashboard brings opportunities, approvals, application tracking and interview preparation together.
 - Résumé content is grounded in candidate facts; there is no auto-apply, and Gmail sending is opt-in and approval-gated.
 - **Technologies and interfaces:** Python, FastAPI, React, AI services, optional n8n and messaging integrations.
-- **Status:** private independent project; production deployment and regression checks have been documented. No claim is made about interview-rate improvement.
+- **Status:** private independent project; production deployment and regression checks have been documented.
 
 ### APEX — Agentic business intelligence and operations
 
@@ -64,8 +64,10 @@ Business information often lives in separate systems. I conceived and built APEX
 
 ![APEX — illustrative product concept](assets/portfolio/apex.png)
 
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
+
 ```mermaid
-flowchart LR
+flowchart TB
     A[Business question] --> B[Agent orchestration]
     B --> C[Connected data sources]
     C --> D[Analysis and reporting]
@@ -81,6 +83,8 @@ flowchart LR
 
 ![ThaiFamily Trip — illustrative product concept](assets/portfolio/thaifamily.png)
 
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
+
 I built a travel planner that brings itinerary design, place discovery, maps and practical tools into a Hebrew-first mobile experience. It is designed around family needs, travel pace and destination context.
 
 The planning flow connects family preferences, destination information and AI-assisted itinerary generation, with a map-based way to explore places. The experience includes practical travel tools alongside the planner.
@@ -91,6 +95,8 @@ The planning flow connects family preferences, destination information and AI-as
 
 ![WatchUp — illustrative product concept](assets/portfolio/watchup.png)
 
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
+
 I built WatchUp to help parents notice selected communication alerts without reviewing every conversation. The documented experience includes a Hebrew dashboard, configurable alerts and a read-only integration that does not send or modify messages.
 
 **Status:** private project. No family or message data is shown here.
@@ -100,7 +106,7 @@ I built WatchUp to help parents notice selected communication alerts without rev
 I built a family-oriented assistant to reduce repeated portal checking. It collects and organizes school updates, detects changes and supports Telegram notifications and reminders.
 
 ```mermaid
-flowchart LR
+flowchart TB
     A[School updates] --> B[Browser automation and change detection]
     B --> C[Organize updates]
     C --> D[Telegram notifications and reminders]
@@ -113,7 +119,7 @@ flowchart LR
 I built a voice-first assistant that transcribes spoken ideas, creates useful titles and helps organize them into workflows such as tasks, calendar events, email drafts or spreadsheet entries. It combines AI and Google integrations in a Hebrew-first mobile experience.
 
 ```mermaid
-flowchart LR
+flowchart TB
     A[Speak a thought] --> B[Transcription and title]
     B --> C[Review and organize]
     C --> D[Notes or connected workflow]
@@ -129,11 +135,11 @@ I built a Hebrew-first app for organizing gift cards, combining image scanning, 
 
 ### ELDO — Personal AI agent in development
 
-ELDO explores a personal assistant with structured memory, action policies, audit-oriented workflows and sandbox adapters. The inspected project documentation distinguishes sandbox work from live transport and deployment; those boundaries must be rechecked before claiming live capabilities.
+ELDO explores a personal assistant with structured memory, action policies, audit-oriented workflows and sandbox adapters. Live transport and deployment are still under development.
 
 ### DREAM TEAM — Agent work overview
 
-A private dashboard designed to bring project, task and agent activity together and make work that needs attention easier to find. This is a product overview; it does not imply that any particular agent ran on this page.
+A private dashboard designed to bring project, task and agent activity together and make work that needs attention easier to find.
 
 ### EG Skills Core — AI work orchestration
 
@@ -141,7 +147,7 @@ A private agent-work framework with reusable skills, specialist roles, orchestra
 
 ### New Project Tool — Project setup workflows
 
-A private project setup toolkit containing project templates, specifications, setup scripts, tests and orchestration material. It reflects work on repeatable project foundations and structured AI-assisted development. Current supported workflows require verification before more specific claims are published.
+A private project setup toolkit containing project templates, specifications, setup scripts, tests and orchestration material. It reflects work on repeatable project foundations and structured AI-assisted development.
 
 ### More public code
 
