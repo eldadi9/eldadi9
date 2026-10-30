@@ -34,6 +34,9 @@ I bring 20+ years of business and operational leadership, technical project deli
 
 <div dir="rtl" lang="he">
 
+**לתיאורי פרויקטים מעודכנים:** [תיק העבודות המלא](./PORTFOLIO.md). המאגרים הפרטיים נשארים פרטיים.
+
+
 # אלדד גונשרוביץ'
 
 **מומחה באוטומציות ופתרון בעיות | EG Solutions**
@@ -192,7 +195,7 @@ I bring 20+ years of business and operational leadership, technical project deli
 
 #### <img src="./assets/ui/mark.png" width="18" alt="▪"> איפה זה עומד
 
-מערכת בשלה: יותר מ-1,300 עדכוני קוד, ויותר מ-230 פעולות שמפעילות את כל התהליך. יומן שגיאות מרוכז עם 4 דרגות חומרה, ופריסה ידנית בלבד, עם אישור מפורש.
+מערכת רחבה שפותחה באופן מתמשך, עם יומן שגיאות ותהליכי בדיקה ובקרה.
 
 <p align="center"><img src="./assets/ui/divider.png" alt="קו הפרדה" width="100%"></p>
 
@@ -270,7 +273,7 @@ I bring 20+ years of business and operational leadership, technical project deli
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/ui/icon-1.png" width="22" alt="•"> מנוע שמנתב כל בקשה לאחד מ-8 סוגי משימות
+<img src="./assets/ui/icon-1.png" width="22" alt="•"> מנוע המנתב בקשות למשימות ולסוכנים מתאימים
 
 </td>
 </tr>
@@ -301,7 +304,7 @@ I bring 20+ years of business and operational leadership, technical project deli
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/ui/icon-6.png" width="22" alt="•"> חיבור ישיר לעוזרי AI, עם 18 כלים מוכנים
+<img src="./assets/ui/icon-6.png" width="22" alt="•"> חיבור לעוזרי AI באמצעות כלי MCP
 
 </td>
 <td width="50%" valign="top">

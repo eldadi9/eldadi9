@@ -103,6 +103,10 @@ I built WatchUp to help parents notice selected communication alerts without rev
 
 ### WebtopKids — School updates made simple
 
+![webtopkids — illustrative product concept](assets/portfolio/webtopkids.png)
+
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
+
 I built a family-oriented assistant to reduce repeated portal checking. It collects and organizes school updates, detects changes and supports Telegram notifications and reminders.
 
 ```mermaid
@@ -116,6 +120,10 @@ flowchart TB
 
 ### Remind Me — Voice-first AI assistant
 
+![remindme — illustrative product concept](assets/portfolio/remindme.png)
+
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
+
 I built a voice-first assistant that transcribes spoken ideas, creates useful titles and helps organize them into workflows such as tasks, calendar events, email drafts or spreadsheet entries. It combines AI and Google integrations in a Hebrew-first mobile experience.
 
 ```mermaid
@@ -127,11 +135,32 @@ flowchart TB
 
 ### Voice GmailBot — AI workspace assistant
 
+![voice — illustrative product concept](assets/portfolio/voice.png)
+
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
+
 I built an assistant that connects productivity workflows through voice or natural language. It brings Gmail, Calendar, Contacts and Telegram together through n8n and MCP, supporting tasks such as drafting, scheduling and information retrieval.
 
 ### GiftWallet — Smart gift card management
 
+![giftwallet — illustrative product concept](assets/portfolio/giftwallet.png)
+
+<sub>Illustrative concept — not a product screenshot or real data.</sub>
+
 I built a Hebrew-first app for organizing gift cards, combining image scanning, barcode validation and a dashboard, with optional cloud storage. Its documented stack includes React, TypeScript, OCR and optional Supabase.
+
+### PRD Intake & Automation Brief — From business need to structured brief
+
+A Hebrew-first intake workflow designed to turn an initial business request into a structured automation brief. A five-step form collects the problem, success criteria, requirements, inputs and outputs, integration needs, timing and supporting files. The implementation packages the submission as structured data with an RTL HTML requirements document for downstream workflow processing.
+
+```mermaid
+flowchart TB
+    A[Business request] --> B[Structured intake]
+    B --> C[Requirements document]
+    C --> D[Workflow handoff]
+```
+
+**Tools and interfaces:** React, TypeScript, Vite, React Hook Form, Zod, Supabase Edge Functions and n8n webhooks. This is a private prototype; integrations listed in its intake form are choices, not claims that each service is connected.
 
 ### ELDO — Personal AI agent in development
 
