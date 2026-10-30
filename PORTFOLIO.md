@@ -39,7 +39,7 @@ These descriptions show the product problem, approach and relevant technology. M
 
 Job searching often involves fragmented job sources, repetitive résumé tailoring and scattered follow-up. I conceived and built JobHunterX to bring the process into one controlled workflow.
 
-![JobHunterX — illustrative product concept](assets/portfolio/jobhunterx.png)
+![JobHunterX — illustrative product concept](assets/portfolio/jobhunterx.webp)
 
 <sub>Illustrative concept — not a product screenshot or real data.</sub>
 
@@ -62,7 +62,7 @@ flowchart TB
 
 Business information often lives in separate systems. I conceived and built APEX around a practical question: how can a user ask in natural language and turn connected business data into a useful answer?
 
-![APEX — illustrative product concept](assets/portfolio/apex.png)
+![APEX — illustrative product concept](assets/portfolio/apex.webp)
 
 <sub>Illustrative concept — not a product screenshot or real data.</sub>
 
@@ -81,7 +81,7 @@ flowchart TB
 
 ### ThaiFamily Trip — AI-assisted family travel planning
 
-![ThaiFamily Trip — illustrative product concept](assets/portfolio/thaifamily.png)
+![ThaiFamily Trip — illustrative product concept](assets/portfolio/thaifamily.webp)
 
 <sub>Illustrative concept — not a product screenshot or real data.</sub>
 
@@ -93,7 +93,7 @@ The planning flow connects family preferences, destination information and AI-as
 
 ### WatchUp — Privacy-aware family alerts
 
-![WatchUp — illustrative product concept](assets/portfolio/watchup.png)
+![WatchUp — illustrative product concept](assets/portfolio/watchup.webp)
 
 <sub>Illustrative concept — not a product screenshot or real data.</sub>
 
@@ -103,7 +103,7 @@ I built WatchUp to help parents notice selected communication alerts without rev
 
 ### WebtopKids — School updates made simple
 
-![webtopkids — illustrative product concept](assets/portfolio/webtopkids.png)
+![webtopkids — illustrative product concept](assets/portfolio/webtopkids.webp)
 
 <sub>Illustrative concept — not a product screenshot or real data.</sub>
 
@@ -120,7 +120,7 @@ flowchart TB
 
 ### Remind Me — Voice-first AI assistant
 
-![remindme — illustrative product concept](assets/portfolio/remindme.png)
+![remindme — illustrative product concept](assets/portfolio/remindme.webp)
 
 <sub>Illustrative concept — not a product screenshot or real data.</sub>
 
@@ -135,7 +135,7 @@ flowchart TB
 
 ### Voice GmailBot — AI workspace assistant
 
-![voice — illustrative product concept](assets/portfolio/voice.png)
+![voice — illustrative product concept](assets/portfolio/voice.webp)
 
 <sub>Illustrative concept — not a product screenshot or real data.</sub>
 
@@ -143,7 +143,7 @@ I built an assistant that connects productivity workflows through voice or natur
 
 ### GiftWallet — Smart gift card management
 
-![giftwallet — illustrative product concept](assets/portfolio/giftwallet.png)
+![giftwallet — illustrative product concept](assets/portfolio/giftwallet.webp)
 
 <sub>Illustrative concept — not a product screenshot or real data.</sub>
 
@@ -151,7 +151,7 @@ I built a Hebrew-first app for organizing gift cards, combining image scanning, 
 
 ### PRD Intake & Automation Brief — From business need to structured brief
 
-A Hebrew-first intake workflow designed to turn an initial business request into a structured automation brief. A five-step form collects the problem, success criteria, requirements, inputs and outputs, integration needs, timing and supporting files. The implementation packages the submission as structured data with an RTL HTML requirements document for downstream workflow processing.
+A Hebrew-first intake workflow designed to turn an initial business request into a structured automation brief. A five-step form groups the problem, success criteria, requirements, inputs and outputs, integration needs, timing and supporting files. The implementation packages the submission as structured data with an RTL HTML requirements document for downstream workflow processing.
 
 ```mermaid
 flowchart TB
